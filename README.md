@@ -2,7 +2,7 @@
 This repository contains an exploration of recurrent neural networks (RNNs) and how they can be trained to detect humor. The [Yelp Open Dataset](https://www.yelp.com/dataset) is used for training and demonstration. The machine learning model is built with the help of [PyTorch](https://pytorch.org) and [spaCy](https://spacy.io/).
 
 ## How to view
-Install [Conda](https://conda.io) and Jupyter with [this guide](https://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda). Then run:
+Open `yelp_humor_detection.ipynb` in GitHub. If you want to view the notebook locally, install [Conda](https://conda.io) and Jupyter with [this guide](https://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda). Then run:
 
 ```
 $ jupyter notebook yelp_humor_detection.ipynb
